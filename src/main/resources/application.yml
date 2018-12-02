@@ -1,0 +1,14 @@
+cloud:
+  aws:
+    smtp:
+      username: AKIAJZRZN2E6S23RK3EA
+      password: AskyR7PXjRGHTbbUao9AUVhGi5gQEst4Lq2v/Z5zeC6K
+      host: email-smtp.us-east-1.amazonaws.com
+      port: 587
+    ses:
+      from:
+        email: andeerlb@outlook.com.br
+        name: Anderson Babinski
+      to:
+        email: andeerlb@gmail.com
+    
