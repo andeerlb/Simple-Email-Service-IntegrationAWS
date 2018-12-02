@@ -15,6 +15,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+/*
+ * @Author Anderson Babinski
+ */
 @Component
 public class MessageBean implements Serializable{
 
